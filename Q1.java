@@ -9,7 +9,6 @@ import java.util.Scanner;
 
 /**
  *
- * @author Asus
  */
 // Name:-Utkarsh Choudhary
 public class Q1 {
